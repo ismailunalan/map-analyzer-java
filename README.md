@@ -18,4 +18,4 @@ This project demonstrates **Graph Theory, Algorithm Design, Object-Oriented Prog
 ## 🚀 How to Run  
 1️⃣ **Compile the Java code:**  
 ```bash
-javac8 *.java
+java8 MapAnalyzer input.txt output.txt
